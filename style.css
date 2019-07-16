@@ -40,7 +40,7 @@ footer{
 @media(min-width: 1024px){
     body{
         grid-template-areas:'nav nav section section'
-                            'na nav section section'
+                            'nav nav section section'
                             'header header footer footer'
                             'header header footer footer';
 }
